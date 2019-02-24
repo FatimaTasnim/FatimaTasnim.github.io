@@ -1,0 +1,39 @@
+div.profile{
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    /*background-color: #b3f3e8;*/
+}
+
+.button {
+    border-radius: 10px;
+    padding: 8px;
+    margin: 5px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.stopstalk{
+    margin-top: 20px;
+    margin-left: 35px;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a.styles{
+    text-decoration: none;
+    color: #8B1E3F;
+}
+a.button_a{
+    color: whitesmoke;
+    text-decoration: none;
+}
