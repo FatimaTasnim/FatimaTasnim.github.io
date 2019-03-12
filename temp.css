@@ -30,7 +30,7 @@ div.right{
     height: 100vh;
     width:  calc(100% - 20%);
     background-size: cover;
-    background-color:  #F5EEF8  ;
+    background-color:  #FFFFFF  ;
     float: right;
 }
 div.middle{
